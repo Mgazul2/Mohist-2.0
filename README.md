@@ -9,13 +9,10 @@
 [![](https://img.shields.io/badge/Paper-1.12.2-brightgreen.svg?colorB=DC3340)](https://papermc.io/downloads#Paper-1.12)
 ![](https://img.shields.io/badge/Java-8u212-brightgreen.svg?colorB=469C00)
 
-Since CraftBukkit has modified a lot of underlying layers, some of the core mods are not available, we are working hard to improve.
+New version without DMCA
 
 ### Getting Help
-   [**Discord**](https://discord.gg/HNmmrCV)
-   [**Home**](https://www.mohist.red/)
-   [**QQ**](https://jq.qq.com/?_wv=1027&k=5q7lcCb)
-   [**bStats**](https://bstats.org/plugin/bukkit/Mohist)
+   [**Discord**](https://discord.gg/mgXV55P)
 
 ### Download
 * [**Jenkins**](https://ci.codemc.org/job/PFCraft/job/Mohist/)
@@ -23,7 +20,7 @@ Since CraftBukkit has modified a lot of underlying layers, some of the core mods
 ### Building
 * Checkout project
   * You can use IDE or clone from console:
-  `git clone https://github.com/PFCraft/Mohist.git`
+  `git clone https://github.com/Mgazul2/Mohist-2.0.git`
 * Setup
   * Setting up submodules:
   `git submodule update --init --recursive`
